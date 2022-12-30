@@ -1,7 +1,7 @@
 import { Message } from '../types/message';
 import { mockUsers } from '../assets/mockUsers'; // todo: remove this line after server implementation
 
-const endpoint = '../assets/'; // todo: add endpoint (server) address (starting with http://)
+const endpoint = 'http://localhost:3003/';
 
 
 /**
